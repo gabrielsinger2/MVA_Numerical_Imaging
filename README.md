@@ -1,4 +1,4 @@
-# MVA project on numerical imaging.
+# MVA project on numerical imaging
 ## Title of the project: Underwater image processing
 
 The challenge of recovering accurate colors and
